@@ -14,4 +14,4 @@ Tout cela en utilisant les mains pour se propulser avec le sol.
 
 ## Moodboards
 
-![filament](media/img/filament.jpg)
+![moodboard](media/img/moadboard_vr.png)
