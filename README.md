@@ -15,3 +15,17 @@ Tout cela en utilisant les mains pour se propulser avec le sol.
 ## Moodboards
 
 ![moodboard](media/img/moadboard_vr.png)
+
+### son:
+
+https://uppbeat.io/browse/sfx/cartoon
+
+https://artlist.io/royalty-free-music/song/wandering-caterpillar---scene-1/72166
+
+https://artlist.io/royalty-free-music/song/waterfront-chill/119673
+
+https://artlist.io/royalty-free-music/song/the-cycle-continues/115840
+
+## Carte
+![carte](media/img/carte_vr.png)
+
