@@ -30,4 +30,6 @@ https://artlist.io/royalty-free-music/song/the-cycle-continues/115840
 ![carte](media/img/carte_vr.png)
 
 ##
+![schema](media/img/schema_vr.png)
+
 
